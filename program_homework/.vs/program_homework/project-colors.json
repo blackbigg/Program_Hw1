@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25855718-840b-46e2-a3ea-eb5e5e2fbdae": {
+      "ProjectGuid": "25855718-840b-46e2-a3ea-eb5e5e2fbdae",
+      "DisplayName": "program_homework",
+      "ColorIndex": 0
+    },
+    "023ee173-39f6-468a-926b-f2fbc703ecad": {
+      "ProjectGuid": "023ee173-39f6-468a-926b-f2fbc703ecad",
+      "DisplayName": "hw2.21",
+      "ColorIndex": 1
+    },
+    "cc10788a-7369-41c2-8be8-775ca98109d1": {
+      "ProjectGuid": "cc10788a-7369-41c2-8be8-775ca98109d1",
+      "DisplayName": "hw2.21",
+      "ColorIndex": 2
+    },
+    "d708e274-280f-4d60-9dae-d483c0cfc3ef": {
+      "ProjectGuid": "d708e274-280f-4d60-9dae-d483c0cfc3ef",
+      "DisplayName": "hw2.23",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
